@@ -558,7 +558,7 @@ function HomeScreen({ route, navigation }) {
           Welcome to {'\n'} Mustafa's & Zarnab's {'\n'} TriQuiz App
         </Text>
         <Text style={{ fontSize: 25, fontWeight: 'bold', textAlign: 'center' }}>  
-          {'\n'} FA18-BCS-078 {'\n'}  FA18-BCS-140
+          {'\n'} FA18-BCS-078 {'\n'}  FA18-BCS-142
           
           
         </Text>
